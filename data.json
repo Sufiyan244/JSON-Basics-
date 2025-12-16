@@ -404,7 +404,6 @@
         "image": "https://pixabay.com/photos/amalfi-amalfi-coast-cliff-rock-2241861/"  
     },
            
-    // ===============================:
     
     {
         "title": "faroe-islands-fjord-mountains-green",
@@ -506,7 +505,7 @@
         "title": "lake-mountains-alberta-canada",
         "image": "https://pixabay.com/photos/lake-mountains-alberta-canada-4697441/"  
     },
-    // ==================================
+   
 
     {
         "title": "mountains-snow-trees-glacier",
@@ -743,7 +742,7 @@
         "title": "denali-national-park-alaska",
         "image": "https://pixabay.com/photos/denali-national-park-alaska-80463/"  
     },
-        // ===================
+        
     {
         "title": "field-agriculture-grain-field",
         "image": "https://pixabay.com/photos/field-agriculture-grain-field-9658151/"
